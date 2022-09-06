@@ -29,7 +29,6 @@ const checkKthBitSet01 = (n, k) => {
 }
 
 console.log(`First set-bit position for number: 18 is -> ${CheckKthBitSet(18)}`);
-
 console.log("------------");
 console.log("n = 10, k = 2 : " + checkKthBitSet01(10, 2));
 console.log("------------");
