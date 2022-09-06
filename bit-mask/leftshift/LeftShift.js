@@ -1,6 +1,3 @@
-// Time: O(1), always constant, as we are dealing with bit representation of decimals or ASCII.
-// They are represented in either 32/64
-// Space: O(1), no extra memory allocated
 const LeftShift = (number, i) => {
   return number << i;
 }
