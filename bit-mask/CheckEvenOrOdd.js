@@ -1,3 +1,0 @@
-const checkEvenOrOdd = (first, second) => {
-
-}
