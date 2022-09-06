@@ -23,7 +23,7 @@ const CheckKthBitSetOptimal = (n, k) => {
   return (n & (1 << (k - 1))) !== 0;
 }
 
-console.log("n = 5, k = 3 : " + CheckKthBitSet(5, 3));
+console.log(`First set-bit position for number: 18 is -> ${CheckKthBitSet(18)}`);
 console.log("------------");
 console.log("n = 10, k = 2 : " + CheckKthBitSetOptimal(10, 2)); // optimal approach
 console.log("------------");
