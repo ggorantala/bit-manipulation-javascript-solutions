@@ -1,0 +1,3 @@
+const checkEvenOrOdd = (first, second) => {
+
+}
